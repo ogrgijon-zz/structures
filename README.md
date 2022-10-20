@@ -1,6 +1,6 @@
 # Structures for Visual Studio Code - Open Source ("Structures - VSCode")
 
-<p align="center">
+<p align="center" style="background=white;">
   <img alt="VS Code in action" src="https://github.com/ogrgijon/structures/blob/main/docs/branding/structures.svg?raw=true">
 </p>
 
