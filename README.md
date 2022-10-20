@@ -1,6 +1,6 @@
 # Structures for Visual Studio Code - Open Source ("Structures - VSCode")
 
-[structures_icon](https://github.com/ogrgijon/structures/docs/branding/structures.png?raw=true)
+[structures_icon](https://github.com/ogrgijon/structures/blob/main/docs/branding/structures.svg?raw=true)
 
 ## The Repository
 This repository ("`Structures - VSCode`") is where develop the [Structures Extension](https://github.com/ogrgijon/structures) free extension together with the community. This is a free work by the way of isn't supported by private sources. This source code is available to everyone under the standard [MIT license](https://github.com/ogrgijon/structures/blob/main/LICENSE.txt).
